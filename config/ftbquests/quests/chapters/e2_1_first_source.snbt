@@ -1,0 +1,169 @@
+{
+	autofocus_id: "E100000000000301"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "e2_1_first_source"
+	group: "E1000000000000A2"
+	id: "E100000000000300"
+	order_index: 2
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["E100000000000209"]
+			icon: {
+				id: "ars_nouveau:novice_spell_book"
+			}
+			id: "E100000000000301"
+			rewards: [
+				{
+					id: "E1000000000003F1"
+					type: "advancement"
+					advancement: "specterrealm:field_manual/elysian/ars_basics"
+				},
+				{
+					count: 2
+					id: "E1000000000003F2"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+				id: "E100000000000302"
+				type: "item"
+				item: { id: "ars_nouveau:novice_spell_book" count: 1 }
+				count: 1L
+			}
+			]
+			x: 0.0d
+			y: 0.0d
+		},
+		{
+			dependencies: ["E100000000000301"]
+			id: "E100000000000303"
+			rewards: [
+				{
+					count: 8
+					id: "E1000000000003F3"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				},
+				{
+					id: "E1000000000003F4"
+					type: "xp"
+					xp: 75
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+				id: "E100000000000304"
+				type: "item"
+				item: { id: "ars_nouveau:worn_notebook" count: 1 }
+				count: 1L
+			}
+			]
+			x: 2.5d
+			y: 0.0d
+		},
+		{
+			dependencies: ["E100000000000303"]
+			id: "E100000000000305"
+			rewards: [
+				{
+					count: 4
+					id: "E1000000000003F5"
+					item: {
+						count: 1
+						id: "ars_nouveau:magebloom_fiber"
+					}
+					type: "item"
+				},
+				{
+					id: "E1000000000003F6"
+					type: "advancement"
+					advancement: "specterrealm:field_manual/elysian/source_loop"
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+				id: "E100000000000306"
+				type: "item"
+				item: { id: "ars_nouveau:source_jar" count: 1 }
+				count: 1L
+			}
+			]
+			x: 5.0d
+			y: 0.0d
+		},
+		{
+			dependencies: ["E100000000000305"]
+			id: "E100000000000307"
+			rewards: [
+				{
+					count: 4
+					id: "E1000000000003F7"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem"
+					}
+					type: "item"
+				},
+				{
+					id: "E1000000000003F8"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+				id: "E100000000000308"
+				type: "item"
+				item: { id: "ars_nouveau:imbuement_chamber" count: 1 }
+				count: 1L
+			}
+			]
+			x: 5.0d
+			y: 2.5d
+		},
+		{
+			dependencies: ["E100000000000307"]
+			id: "E100000000000309"
+			rewards: [
+				{
+					id: "E1000000000003F9"
+					type: "xp_levels"
+					xp_levels: 1
+				},
+				{
+					id: "E1000000000003F0"
+					type: "advancement"
+					advancement: "specterrealm:field_manual/elysian/void_bootstrap"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+				id: "E10000000000030A"
+				type: "item"
+				item: { id: "ars_nouveau:source_gem" count: 1 }
+				count: 4L
+			}
+			]
+			x: 2.5d
+			y: 2.5d
+		}
+	]
+}

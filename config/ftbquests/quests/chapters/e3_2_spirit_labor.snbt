@@ -1,0 +1,129 @@
+{
+	autofocus_id: "E100000000000501"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "e3_2_spirit_labor"
+	group: "E1000000000000A3"
+	id: "E100000000000500"
+	order_index: 4
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["E100000000000409"]
+			icon: {
+				id: "occultism:dictionary_of_spirits"
+			}
+			id: "E100000000000501"
+			rewards: [
+				{
+					id: "E1000000000005F1"
+					type: "advancement"
+					advancement: "specterrealm:field_manual/elysian/spirit_labor"
+				},
+				{
+					count: 4
+					id: "E1000000000005F2"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+				id: "E100000000000502"
+				type: "item"
+				item: { id: "occultism:dictionary_of_spirits" count: 1 }
+				count: 1L
+			}
+			]
+			x: 0.0d
+			y: 0.0d
+		},
+		{
+			dependencies: ["E100000000000501"]
+			id: "E100000000000503"
+			rewards: [
+				{
+					count: 1
+					id: "E1000000000005F3"
+					item: {
+						count: 1
+						id: "occultism:spirit_fire"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+				id: "E100000000000504"
+				type: "item"
+				item: { id: "occultism:sacrificial_bowl" count: 1 }
+				count: 1L
+			}
+			]
+			x: 2.5d
+			y: 0.0d
+		},
+		{
+			dependencies: ["E100000000000503"]
+			id: "E100000000000505"
+			rewards: [
+				{
+					count: 1
+					id: "E1000000000005F4"
+					item: {
+						count: 1
+						id: "enderstorage:ender_chest"
+					}
+					type: "item"
+				},
+				{
+					id: "E1000000000005F5"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+				id: "E100000000000506"
+				type: "checkmark"
+			}
+			]
+			x: 5.0d
+			y: 0.0d
+		},
+		{
+			dependencies: ["E100000000000505"]
+			id: "E100000000000507"
+			rewards: [
+				{
+					id: "E1000000000005F6"
+					type: "xp_levels"
+					xp_levels: 2
+				},
+				{
+					id: "E1000000000005F7"
+					type: "advancement"
+					advancement: "specterrealm:field_manual/elysian/mid_labor"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+				id: "E100000000000508"
+				type: "checkmark"
+			}
+			]
+			x: 2.5d
+			y: 2.5d
+		}
+	]
+}
