@@ -1,0 +1,39 @@
+{
+	autofocus_id: "E100000000000701"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "e4_2_irons_combat"
+	group: "E1000000000000A4"
+	id: "E100000000000700"
+	order_index: 6
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "E100000000000701"
+			optional: true
+			rewards: [
+				{
+					id: "E10000000000070F1"
+					type: "advancement"
+					advancement: "specterrealm:field_manual/elysian/irons_combat"
+				},
+				{
+					id: "E10000000000070F2"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+				id: "E100000000000702"
+				type: "checkmark"
+			}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+}
