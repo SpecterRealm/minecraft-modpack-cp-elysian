@@ -25,3 +25,7 @@ make refresh
 ```
 
 Pin Soft / candidate jars only after 1.21.1 confirm + smoke-test. Prefer documenting TODOs over guessing pins.
+
+## Recipe viewer defaults
+
+Shipped EMI/JEI configs match Verdant patterns (`index-source = registered`, EMI++ stack groups) with JEI `maxColumns = 12` to target ≤17 item-list pages. Re-smoke page count after merge.
