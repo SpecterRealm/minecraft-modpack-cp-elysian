@@ -122,7 +122,7 @@ hash = "ef6534a9c922c76131207b9d69e30c2d2e830243a0806b4849dd97af4a08bf01"
 
 [[files]]
 file = "kubejs/server_scripts/quest_book_login.js"
-hash = "b8910286da981bac560e475cc1cf7d5e14fe6346d806b8159d9c593790c4f96b"
+hash = "906457c4a60021e96e2bdc6f8942ec0397160b677bb23002e7798844893db4bb"
 
 [[files]]
 file = "kubejs/startup_scripts/.gitkeep"

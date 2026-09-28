@@ -4,13 +4,13 @@
 
 PlayerEvents.loggedIn((event) => {
   const player = event.player;
-  const hasBook = player.inventory.find((item) => item.id === 'ftbquests:book');
-  if (!hasBook) {
+
+  if (player.inventory.count('ftbquests:book') < 1) {
     player.give('ftbquests:book');
   }
 
   player.tell(Text.of(''));
-  player.tell(Text.lightPurple('[ COLONY PROTOCOL: ELYSIAN ]'));
+  player.tell(Text.gold('[ COLONY PROTOCOL: ELYSIAN ]'));
   player.tell(Text.of('Void training ground online. Magic obtains what stone cannot.'));
   player.tell(Text.of(''));
   player.tell(Text.aqua('Getting started:'));
