@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:sg/spear",
+  "name": "stackgroup.cpelysian.sg.spear",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["silentgear:spear"]
+}

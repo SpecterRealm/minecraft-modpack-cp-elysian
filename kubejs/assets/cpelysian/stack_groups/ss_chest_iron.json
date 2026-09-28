@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:ss/chest/iron",
+  "name": "stackgroup.cpelysian.ss.chest.iron",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["sophisticatedstorage:iron_chest"]
+}

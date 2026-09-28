@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:sg/katana",
+  "name": "stackgroup.cpelysian.sg.katana",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["silentgear:katana"]
+}

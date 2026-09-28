@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:sg/crude_knife",
+  "name": "stackgroup.cpelysian.sg.crude_knife",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["silentgear:crude_knife"]
+}

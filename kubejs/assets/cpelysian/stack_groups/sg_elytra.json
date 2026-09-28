@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:sg/elytra",
+  "name": "stackgroup.cpelysian.sg.elytra",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["silentgear:elytra"]
+}

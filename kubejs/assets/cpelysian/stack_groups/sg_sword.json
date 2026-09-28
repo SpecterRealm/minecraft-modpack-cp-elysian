@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:sg/sword",
+  "name": "stackgroup.cpelysian.sg.sword",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["silentgear:sword"]
+}

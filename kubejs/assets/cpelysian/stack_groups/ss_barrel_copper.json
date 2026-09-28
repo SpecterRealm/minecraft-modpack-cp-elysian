@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:ss/barrel/copper",
+  "name": "stackgroup.cpelysian.ss.barrel.copper",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["sophisticatedstorage:copper_barrel"]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:ss/chest/netherite",
+  "name": "stackgroup.cpelysian.ss.chest.netherite",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["sophisticatedstorage:netherite_chest"]
+}

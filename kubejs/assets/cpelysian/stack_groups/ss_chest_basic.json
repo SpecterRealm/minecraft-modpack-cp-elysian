@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:ss/chest/basic",
+  "name": "stackgroup.cpelysian.ss.chest.basic",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["sophisticatedstorage:chest"]
+}

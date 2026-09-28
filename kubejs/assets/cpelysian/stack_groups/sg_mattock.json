@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:sg/mattock",
+  "name": "stackgroup.cpelysian.sg.mattock",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["silentgear:mattock"]
+}

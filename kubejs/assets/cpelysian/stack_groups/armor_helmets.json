@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:armor_helmets",
+  "name": "stackgroup.cpelysian.armor_helmets",
+  "type": "emixx:tag",
+  "enabled": true,
+  "tag": "minecraft:head_armor"
+}

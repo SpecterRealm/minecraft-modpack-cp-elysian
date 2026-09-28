@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:armor_chestplates",
+  "name": "stackgroup.cpelysian.armor_chestplates",
+  "type": "emixx:tag",
+  "enabled": true,
+  "tag": "minecraft:chest_armor"
+}

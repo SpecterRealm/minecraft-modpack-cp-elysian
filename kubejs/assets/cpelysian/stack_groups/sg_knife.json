@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:sg/knife",
+  "name": "stackgroup.cpelysian.sg.knife",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["silentgear:knife"]
+}

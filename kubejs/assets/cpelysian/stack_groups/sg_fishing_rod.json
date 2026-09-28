@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:sg/fishing_rod",
+  "name": "stackgroup.cpelysian.sg.fishing_rod",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["silentgear:fishing_rod"]
+}

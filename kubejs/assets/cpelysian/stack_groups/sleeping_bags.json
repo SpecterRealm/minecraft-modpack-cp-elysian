@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:sleeping_bags",
+  "name": "stackgroup.cpelysian.sleeping_bags",
+  "type": "emixx:tag",
+  "enabled": true,
+  "tag": "comforts:sleeping_bags"
+}

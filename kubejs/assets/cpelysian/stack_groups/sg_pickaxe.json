@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:sg/pickaxe",
+  "name": "stackgroup.cpelysian.sg.pickaxe",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": ["silentgear:pickaxe"]
+}
