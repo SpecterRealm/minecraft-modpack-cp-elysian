@@ -5,6 +5,50 @@ file = "README.md"
 hash = "00b8cd6b20d796962d7d5c83449978c27f6a7342e3c45e6fe89de1c936535cf9"
 
 [[files]]
+file = "config/fancymenu/assets/cpelysian_bridge_loading_bg.png"
+hash = "1444ee4305a5d84cce5c014d09aed83040da5638a1e9520f738cf5c625ee4fa7"
+
+[[files]]
+file = "config/fancymenu/assets/cpelysian_bridge_pause_bg.png"
+hash = "3d9e3a2c35e1d5a5ae29fb078f71f099eed67755d86985cf38554c6bb380780e"
+
+[[files]]
+file = "config/fancymenu/assets/cpelysian_bridge_title_bg.png"
+hash = "3d9e3a2c35e1d5a5ae29fb078f71f099eed67755d86985cf38554c6bb380780e"
+
+[[files]]
+file = "config/fancymenu/assets/cpelysian_drippy_loading.png"
+hash = "1444ee4305a5d84cce5c014d09aed83040da5638a1e9520f738cf5c625ee4fa7"
+
+[[files]]
+file = "config/fancymenu/assets/cpelysian_menu_bg.png"
+hash = "3d9e3a2c35e1d5a5ae29fb078f71f099eed67755d86985cf38554c6bb380780e"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "f9e2aa41cef233691cd6ac096e52189ebf28dc7f45572f5795faee7d8d1396fb"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "30953aab7a0ba8ee8a35c1a4fdb5444b290b7d07e53a69b21e788252fa899bbf"
+
+[[files]]
+file = "config/fancymenu/customization/level_loading_screen_layout.txt"
+hash = "d2d3187861fb5a9f393edf2c37a9acd26db54799d5f9a21d6c3660d79b215f10"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "bc7f693aefb362cec80ca22f3315a730d0d7d941f9ba89bd387bd1e1b7503d2a"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "cec19a95ab31fede573a5d823eb88bf8564bbe8a4d2ee931204c22a06c76d6e5"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "025d3f1d83ced8c4aaafd1e9e0178a4b46cc99f9645969b2cd83e934d1bcad7a"
+
+[[files]]
 file = "config/fml.toml"
 hash = "87adaaaf6c1b59c581989b163009e0cc718b854febdd50139ab846540a3e3d83"
 
