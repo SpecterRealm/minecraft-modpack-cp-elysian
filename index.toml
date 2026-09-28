@@ -271,6 +271,11 @@ hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "fa2d61b9c6b4446bbad9767e20bbd43c8c1e25bf0f7ecc9a237bf995456d02f5"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "f6bcf591a91c87fe02187642c7311ce08ed9d0d997be0fb5befc41b7fb61b868"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e34877bf9d74d3f71c69fdd47ce509fa473fadcdf88f87f79754a522cfa1c60b"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "3f8f749b654d18560d45dfb160e839566f72d9150e86f7f881c5e205f5660c55"
 metafile = true
 
 [[files]]
@@ -488,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "83dae761dae86cc140fe971ce6a8cac9bfe0f9eb39417a71666441a2bcc634a8"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
