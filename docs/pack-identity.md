@@ -29,3 +29,7 @@ Pin Soft / candidate jars only after 1.21.1 confirm + smoke-test. Prefer documen
 ## Recipe viewer defaults
 
 Shipped EMI/JEI configs match Verdant patterns (`index-source = registered`, EMI++ stack groups) with JEI `maxColumns = 12` to target ≤17 item-list pages. Re-smoke page count after merge.
+
+## Explicitly not on Elysian
+
+- **Cobblegen Galore** — tech stone gens; keep on Verdant/Liminal. Magic obtain covers stone on E.
