@@ -3,7 +3,5 @@
   "name": "stackgroup.cpelysian.sg.elytra",
   "type": "emixx:group",
   "enabled": true,
-  "contents": [
-    "silentgear:elytra"
-  ]
+  "contents": ["silentgear:elytra"]
 }

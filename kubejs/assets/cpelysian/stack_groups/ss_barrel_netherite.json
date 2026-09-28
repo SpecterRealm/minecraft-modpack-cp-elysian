@@ -3,7 +3,5 @@
   "name": "stackgroup.cpelysian.ss.barrel.netherite",
   "type": "emixx:group",
   "enabled": true,
-  "contents": [
-    "sophisticatedstorage:netherite_barrel"
-  ]
+  "contents": ["sophisticatedstorage:netherite_barrel"]
 }

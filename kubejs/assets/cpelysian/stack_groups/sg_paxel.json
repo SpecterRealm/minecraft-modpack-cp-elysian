@@ -3,7 +3,5 @@
   "name": "stackgroup.cpelysian.sg.paxel",
   "type": "emixx:group",
   "enabled": true,
-  "contents": [
-    "silentgear:paxel"
-  ]
+  "contents": ["silentgear:paxel"]
 }
