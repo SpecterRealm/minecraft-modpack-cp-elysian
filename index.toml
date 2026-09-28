@@ -5,6 +5,22 @@ file = "README.md"
 hash = "00b8cd6b20d796962d7d5c83449978c27f6a7342e3c45e6fe89de1c936535cf9"
 
 [[files]]
+file = "config/emi-client.toml"
+hash = "5844fbe32b04f7c3ada8e71422ae4ce2325b8732058deebac5daf165fec072e4"
+
+[[files]]
+file = "config/emi.css"
+hash = "368b86570b373bea461aa58758964a82fdfbbef1585823ebb1ba98e39f1c4022"
+
+[[files]]
+file = "config/emi_patternizer-client.toml"
+hash = "f2e4b9c77a0f1de9aa3db45cb366cb89165695cca786663c5b4c92610d369993"
+
+[[files]]
+file = "config/emixx/emixx-client.toml"
+hash = "13bf83e58184d2f36a57b8da3e2c69f0c492891ae78c485fc26498bf57e520a9"
+
+[[files]]
 file = "config/fancymenu/assets/cpelysian_bridge_loading_bg.png"
 hash = "1444ee4305a5d84cce5c014d09aed83040da5638a1e9520f738cf5c625ee4fa7"
 
@@ -105,6 +121,30 @@ file = "config/ftbquests/quests/quests.snbt"
 hash = "968347f3aeeb897f2eba6b93d4039e4aba47ee62586ded10682da8deba067da7"
 
 [[files]]
+file = "config/jei-server.toml"
+hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "70022b8dc91bd2f574acc6d6816aa476e1189f6daa897e780093a40777b48974"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "39b7d63de65fbf7654ee33d521d67095aa17a93226d2d9b7a6fb09305c8990d4"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
+
+[[files]]
 file = "defaultconfigs/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -118,7 +158,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/README.md"
-hash = "3b51234bc0cdb699ae79bc04e995bb0e75e64e818f1dc472f45f112bef64f032"
+hash = "ef6534a9c922c76131207b9d69e30c2d2e830243a0806b4849dd97af4a08bf01"
+
+[[files]]
+file = "kubejs/server_scripts/quest_book_login.js"
+hash = "906457c4a60021e96e2bdc6f8942ec0397160b677bb23002e7798844893db4bb"
 
 [[files]]
 file = "kubejs/startup_scripts/.gitkeep"
@@ -177,11 +221,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
-metafile = true
-
-[[files]]
-file = "mods/cobblegen-galore.pw.toml"
-hash = "8d91e416f8944d06519a4d065d89f4a76cba7cf9ac7398f91f19e977a31b6ba0"
 metafile = true
 
 [[files]]
@@ -583,3 +622,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c129b31143323e9a97c616a8f67fcd3e9db422fa15ec9b50476131a226c3caf2"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "e43ce629adf330a211fd884a2f964df6e9cd82b9cb4cb292a56f510b643ee493"
