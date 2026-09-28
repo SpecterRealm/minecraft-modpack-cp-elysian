@@ -63,7 +63,7 @@ make export-cf
 make validate-export
 ```
 
-See [curseforge-export.md](curseforge-export.md). Modrinth export may fail if a mod requires manual CF download.
+See [curseforge-export.md](curseforge-export.md). Shared mods should match Verdant `.pw.toml` pins; API-excluded CF files (e.g. More Overlays) use Modrinth CDN + CF update dual-source so Prism pre-launch needs no manual jar.
 
 ## Design
 
