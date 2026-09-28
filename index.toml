@@ -118,7 +118,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/README.md"
-hash = "3b51234bc0cdb699ae79bc04e995bb0e75e64e818f1dc472f45f112bef64f032"
+hash = "ef6534a9c922c76131207b9d69e30c2d2e830243a0806b4849dd97af4a08bf01"
+
+[[files]]
+file = "kubejs/server_scripts/quest_book_login.js"
+hash = "b8910286da981bac560e475cc1cf7d5e14fe6346d806b8159d9c593790c4f96b"
 
 [[files]]
 file = "kubejs/startup_scripts/.gitkeep"
@@ -588,3 +592,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c129b31143323e9a97c616a8f67fcd3e9db422fa15ec9b50476131a226c3caf2"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "e43ce629adf330a211fd884a2f964df6e9cd82b9cb4cb292a56f510b643ee493"
