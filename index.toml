@@ -199,11 +199,6 @@ hash = "8a84576db49536bf3192bf863bc8a905e44325dcbe3fb4cf7e68ff9776a03e4d"
 metafile = true
 
 [[files]]
-file = "mods/building-gadgets.pw.toml"
-hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
-metafile = true
-
-[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "108a3e0ea339c42bb3c7fd9cfe1221fec7c1ade0cc4627dd0cb36f10e7fbb078"
 metafile = true

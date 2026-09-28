@@ -33,3 +33,9 @@ Shipped EMI/JEI configs match Verdant patterns (`index-source = registered`, EMI
 ## Explicitly not on Elysian
 
 - **Cobblegen Galore** — tech stone gens; keep on Verdant/Liminal. Magic obtain covers stone on E.
+
+## Building assist
+
+- **Building Wands** — kept (wand / magic-bag skyblock build assist).
+- **Building Gadgets 2** — removed (tech gadget aesthetic; Liminal/Verdant still have it).
+- If BW gaps appear in playtest, candidate add: [Construction Wands Revived](https://modrinth.com/mod/construction-wands-revived) (NeoForge 1.21.1).
