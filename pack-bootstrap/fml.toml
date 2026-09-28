@@ -1,0 +1,29 @@
+#Disables File Watcher. Used to automatically update config if its file has been modified.
+disableConfigWatcher = false
+#Should we control the window. Disabling this disables new GL features and can be bad for mods that rely on them.
+earlyWindowControl = false
+#Max threads for early initialization parallelism,  -1 is based on processor count
+maxThreads = -1
+#Enable NeoForge global version checking
+versionCheck = true
+#Default config path for servers
+defaultConfigPath = "defaultconfigs"
+#Disables Optimized DFU client-side - already disabled on servers
+disableOptimizedDFU = true
+#Early window provider — FancyMenu's fmlearlywindow hangs on macOS aarch64.
+#Keep SimpleCustomEarlyLoading as the provider; do not leave NeoForge/FancyMenu default.
+earlyWindowProvider = "SimpleCustomEarlyLoading"
+#Early window width
+earlyWindowWidth = 854
+#Early window height
+earlyWindowHeight = 480
+#Early window framebuffer scale
+earlyWindowFBScale = 1
+#Early window starts maximized
+earlyWindowMaximized = false
+#Skip specific GL versions, may help with buggy graphics card drivers
+earlyWindowSkipGLVersions = []
+#Squir?
+earlyWindowSquir = false
+#Define dependency overrides below
+dependencyOverrides = {}

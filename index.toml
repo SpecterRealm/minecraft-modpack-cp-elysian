@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "16a8af9053f95a7ebda4b06a3983327a41e4c08a999fd2de1477d80c4aa8b9df"
+hash = "f3dd5e4895019055af6cb3d08c2b89da275a362f5bcd6e2d8eb84a900cc03838"
+
+[[files]]
+file = "config/fml.toml"
+hash = "78648977b24e3be857e0f3f8cb7798fdcbe3c74b7782db0a229fc4f3aaf951d0"
 
 [[files]]
 file = "config/ftbquests/README.md"
