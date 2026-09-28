@@ -1,5 +1,8 @@
 # CurseForge export — Colony Protocol: Elysian
 
+**CF project:** [colony-protocol-elysian](https://www.curseforge.com/minecraft/modpacks/colony-protocol-elysian) · Authors / project id **`1715473`**  
+Set GitHub repo variable `CURSEFORGE_PROJECT_ID=1715473` when upload automation is wired (Verdant `curseforge-upload.md` pattern).
+
 **Default:** `make export-cf` → `dist/Colony-Protocol-Elysian-<version>-curseforge.zip`
 
 ## Rules (match Verdant)
