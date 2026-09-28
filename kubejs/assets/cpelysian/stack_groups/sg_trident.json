@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/trident",
+  "name": "stackgroup.cpelysian.sg.trident",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:trident"
+  ]
+}

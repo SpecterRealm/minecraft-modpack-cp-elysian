@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/bow",
+  "name": "stackgroup.cpelysian.sg.bow",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:bow"
+  ]
+}

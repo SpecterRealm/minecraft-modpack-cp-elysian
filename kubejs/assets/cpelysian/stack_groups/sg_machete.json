@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/machete",
+  "name": "stackgroup.cpelysian.sg.machete",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:machete"
+  ]
+}

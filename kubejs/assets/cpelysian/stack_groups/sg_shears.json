@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/shears",
+  "name": "stackgroup.cpelysian.sg.shears",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:shears"
+  ]
+}

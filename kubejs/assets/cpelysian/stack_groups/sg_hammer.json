@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/hammer",
+  "name": "stackgroup.cpelysian.sg.hammer",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:hammer"
+  ]
+}

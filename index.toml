@@ -153,12 +153,312 @@ file = "kubejs/README.md"
 hash = "f7bbe1dac4124bab2917c2cb380fbc47fc3126baad8db9f9e4e6fd848a06ba8d"
 
 [[files]]
+file = "kubejs/assets/cpelysian/lang/en_us.json"
+hash = "696f9c2896afcc83d967b104de8f6707e75eed633ab8a784cf1bb8f4c3634895"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/armor_boots.json"
+hash = "8feec6c80163e4902174577c4192826f6ce6a0edd42b51d342fe7483bb35e30a"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/armor_chestplates.json"
+hash = "39d559c32cf594cf80e4e2568a1b170c0c92a7ddf95326c30153005c4f4d05f0"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/armor_helmets.json"
+hash = "12bbb2ee1c42bcd8fb4e33c082d0c6dc4b8e11242d04906fd628be6e9a6a942d"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/armor_leggings.json"
+hash = "c46e0cf9faa2b7aca388f0cd599d99abd964a5df17b2d6a701dd1cd0a0585c31"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/backpacks.json"
+hash = "f788450ce48d125ca1de48a0720e14747f665686b3c4086de0ba2f4e4d058905"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/filled_buckets.json"
+hash = "068c3a9cb97a50771e0a8c2bd13fb016418c0f312ea16d132ad738e0abb9df98"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/hammocks.json"
+hash = "af1eaacf002b00e58170f6a3a5fb3a79e8cdd99de29b81bcf6204cac2e1a8609"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_axe.json"
+hash = "dc886ef4aaffc7f47fde8a7f34aafcd44c663592a022ae00f3e2e0bfbade2e1c"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_bow.json"
+hash = "7dd0af509e50f8a447a2ecd8d61a4f8a110f3c6b3c5c59ea1835d3557d306d70"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_crossbow.json"
+hash = "938d32cd1499f683e2aeae8225d17bb3dd2b7a4ba67bda3cec71aeb31eae0b5f"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_crude_hammer.json"
+hash = "d65c94f44feea082507c2bc6f35d35274a6abba693860adb179ea182366e23cb"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_crude_knife.json"
+hash = "59a041ef7dcda4f4ae76159d4287d11d14a2c44d1acbe788ead22011fb9ee9e7"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_dagger.json"
+hash = "bcd960c138229272b47112894b112292dd3d2df86af8c860e7e1185bad2330a4"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_elytra.json"
+hash = "5eb97e62c235420df756b4a0ec2ea69957355dc50179fb766ca94423f04be6d8"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_excavator.json"
+hash = "29e66fb18d2138661fb1a50960b4182329d320a45c6c1364768ac405f4a09a2d"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_fishing_rod.json"
+hash = "4b22bcd3e4355dfb821b70dc9ee03cfb14cdcd1f7866e0141fc335b337382289"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_hammer.json"
+hash = "5010ca7c49b211be44f10415a8d0e94120b7ffc9ff569fb05db01f64bfd039c4"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_hoe.json"
+hash = "422ad0876ec4971541a6c6cdd30164a7e6c801bdbf216afccab8eff463f5b044"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_katana.json"
+hash = "06435311deeb8d45caf116bfeef2e424f4ffffc79cb41a42559bbb2200435587"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_knife.json"
+hash = "ff69a9626c0e8f4cc9a4e96e5b2b86c9abfb0d1e649ee63739529735d78f7c3b"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_mace.json"
+hash = "ad075ffd1846a150353c5f035a739ee9f96617995e3be7c284e128298db33092"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_machete.json"
+hash = "8d45e6dc48e068633f44c5b9db2ab540970e6b6a29085ac4ecaa2a703773a83d"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_mattock.json"
+hash = "cc04c0b3e5e4cdb6210b343851d92176f389adca540bd64c03fb7885b68b0bb6"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_paxel.json"
+hash = "e38251ab6e948bf5771e878d0bcf3639206754f025234ea52ff9f4afc7d16b7b"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_pickaxe.json"
+hash = "9eca7e5003fb5f0828dd22fb0a108e9821d84a0a0f9ab3985a4a86c7f12e3c59"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_prospector_hammer.json"
+hash = "b69f602cf2b601aff249083bfad3baa9c4c03d3f23c0acc5956fa9113a43d60f"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_saw.json"
+hash = "50e871a70de042c29366405adeb9d112fe21fea00b5cfffa16218fa1355b77af"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_shears.json"
+hash = "f86eecd7526bb592d52de8fc8583d6dfc14aba9b1cb9c8d3071ff820f0f7d9a9"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_shield.json"
+hash = "bcc036159208bc72c0781ddde3641680cca3285801a0a7542107f67f03f68d14"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_shovel.json"
+hash = "f56d22b431cdb31b7fde7eb15e3b006a66dd19f3fa88315af74af7764c9d3181"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_sickle.json"
+hash = "ecb9d374a24cf49518147c42c74dc117332eff50a96cc96ad48e50df9cfe0450"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_slingshot.json"
+hash = "873cb4265609031b791104037e3c5f6ee8e4d495d734ac20dc3736ef10e399d8"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_spear.json"
+hash = "5cb426d72625c59ab05b758989b39f975b392e1f69a78155246b32d5bbb68201"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_sword.json"
+hash = "b241734be3f2721feef40c2138c697615c46ac15e60562076d2a7aac501742ba"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sg_trident.json"
+hash = "fb0b7745bb8db59af40ffaac631fdbfdde49199abad1dc6b8ad7656b847eda89"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/sleeping_bags.json"
+hash = "9429f2fb06b28a4ddcbb22043a956ae815f6140c52f27d9ee8798fdf18af1617"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_barrel_basic.json"
+hash = "670aad4eef27b860391a286da49fad44d5c6907dd1199262359c5c504c507355"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_barrel_copper.json"
+hash = "d1aed8bf5135c3b8135fc1513480314d2d3c9d38280b50a2f0e2b4de1a111afb"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_barrel_diamond.json"
+hash = "4b45a4a874f20f6f0241a64ffa9ddb2674cd162363f9604d198d9dcceb74bdd4"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_barrel_gold.json"
+hash = "78e3edb2492695224d81b4062441aa8c2d5b675fbaa4cb6b64b85c8e058fd7b8"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_barrel_iron.json"
+hash = "7e7efc74999f330b44f270d7ab8516e1db1642d3a0651dee64e07f8d5e6f1934"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_barrel_netherite.json"
+hash = "964d74a131cad8f9fad900e81791fa8dce9af04f98e16fbbf2544ff626e95d7d"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_chest_basic.json"
+hash = "6daf84cd66de0115a3495967768e5108f18f0d1a2294b4d9afc1184220a55fd2"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_chest_copper.json"
+hash = "7457b8c917b6c2e651c6afc9df586a92681d6eff8d820b690986aa9de67a5544"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_chest_diamond.json"
+hash = "476a6ec043d86085c7f46a34e56fea780819507113634e85eebc2c428f663800"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_chest_gold.json"
+hash = "32b7508217150b55c457039a9e38969481e3f9a2516a6461aee6ec090ea39b26"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_chest_iron.json"
+hash = "65886376190040fee0f4c3a978a074acfcdf7d0aba289f1f9ee2f7a0e68b1b9a"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_chest_netherite.json"
+hash = "f4d85e9f4e0f3aab706f73fd1ef2559da4271b785cde1b080ad85258c07f6a12"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_basic_1.json"
+hash = "7e8f2e2696097817bf931c56765b910fe9ba26684434463965a1d9dd64415f58"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_basic_2.json"
+hash = "4d5056fb80afc602f7a43c20fab7ca7f95eeb0b20c6f8b2704ca14d789d0c7b9"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_basic_3.json"
+hash = "ab12741c10814559ef0069cf1545c8b670cd9525afc8c623764541ee24b95687"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_basic_4.json"
+hash = "eab14f565722f017c0d2ee8b6ceb8fdc433b2bd313a03fa5df83fd8a3595b9d5"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_copper_1.json"
+hash = "baba77d25c13297aebc13401ec8ee05fe28479a8ab0d6488eda238cf130b9f1a"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_copper_2.json"
+hash = "f6931afdf7e2e949aded6c22f32a1b6167e4f17f6be3b40987d05bdfc62589b8"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_copper_3.json"
+hash = "54eadbe506f7d9f5f1e982e9140d9b5a26540831d8c19df24d5ce5655322f0da"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_copper_4.json"
+hash = "e63e7b0e63c8d0acf4cbf106addba66598587829c0b66f8bc6e93e6797682abb"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_diamond_1.json"
+hash = "56535a155e3f09d57b4e486ead73a6514520541c18650d056609faaa60f4cf81"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_diamond_2.json"
+hash = "d79f4087685ce1632f98b45cf8b2a78fb5935b6527fcbb85ac53343e82a7d631"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_diamond_3.json"
+hash = "33f57fbec0d496975eb305bec47c5ad13ffcd91eaa10905cd335c802578f6da8"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_diamond_4.json"
+hash = "c1032cd0e2c2e3875be7b57a9b39c07912a72065b29a314ca1b3e477de6961cf"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_gold_1.json"
+hash = "e44ab3816a7b8de78e9bbb121c8fd79f036b7bcf4f95b7316fc144aff96a2a8e"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_gold_2.json"
+hash = "45dc73a9035147f2ffa847b2caac75a11cd5dc2025e5fbacc982f5e20d354cb2"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_gold_3.json"
+hash = "59f36e441601e463a67ddadbd2dd6036cafe7520c019084054974765bc4246d7"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_gold_4.json"
+hash = "799728af53ada26bee6561177d152298274c019114305f3b978a88d62aa6d89d"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_iron_1.json"
+hash = "62ed6427ec5f5845391516fa285b9b7bdd3aa0a7de0e004bbd61ac8775976129"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_iron_2.json"
+hash = "8b8b89ed7f33ed519771b04d058e4d7f24495c72834b5547703d34e6bca62f67"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_iron_3.json"
+hash = "5098cc5fb4eb008dd9587c25923760d67d44a37e5c5ba2d4a7cd7586d959400f"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_iron_4.json"
+hash = "abf6c051f96f3eed33e67f7197e29efc4283646e50592fe3dcb81c8bfe7edfb1"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_netherite_1.json"
+hash = "3db06b31a2e807f2f1129a65d7256fad79a0edc2b7e56a8d7ec6acceba4f1b15"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_netherite_2.json"
+hash = "6b70f65e0b61bda5a3c74f4b80b5de4fd26b2c6bc55cc306e76146202f5d5695"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_netherite_3.json"
+hash = "35c6a7c7c7a731a2c4cbdb2dc3c0f836ca620fb8e994659db44e81e3f566300e"
+
+[[files]]
+file = "kubejs/assets/cpelysian/stack_groups/ss_limited_netherite_4.json"
+hash = "3967f6959ea5a87472d2b07dfe3001cda59d4f2dcef3eeacab38c3049e001f41"
+
+[[files]]
 file = "kubejs/client_scripts/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "kubejs/data/cpelysian/tags/item/backpacks.json"
+hash = "b283fae38f33f524bc6ac30d5546c97e97bf26b8829cbbc4d356ab333bb457d1"
+
+[[files]]
+file = "kubejs/data/cpelysian/tags/item/filled_buckets.json"
+hash = "e8ac33d91991c903d05245aabfcc947f51758889fd1e3ea7b81c4e5f3eba5560"
+
+[[files]]
 file = "kubejs/server_scripts/README.md"
-hash = "ef6534a9c922c76131207b9d69e30c2d2e830243a0806b4849dd97af4a08bf01"
+hash = "ff6c9857166f9991df36c41b72635c7b92c9550f883a5e1e49ab60b8e7c3b290"
 
 [[files]]
 file = "kubejs/server_scripts/quest_book_login.js"

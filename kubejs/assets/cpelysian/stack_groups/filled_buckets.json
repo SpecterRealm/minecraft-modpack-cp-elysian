@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:filled_buckets",
+  "name": "stackgroup.cpelysian.filled_buckets",
+  "type": "emixx:tag",
+  "enabled": true,
+  "tag": "cpelysian:filled_buckets"
+}

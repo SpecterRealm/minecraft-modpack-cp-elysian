@@ -28,7 +28,11 @@ Pin Soft / candidate jars only after 1.21.1 confirm + smoke-test. Prefer documen
 
 ## Recipe viewer defaults
 
-Shipped EMI/JEI configs match Verdant patterns (`index-source = registered`, EMI++ stack groups) with JEI `maxColumns = 12` to target ≤17 item-list pages. Re-smoke page count after merge.
+Shipped EMI/JEI configs match Verdant patterns (`index-source = registered`, EMI++ stack groups) with JEI `maxColumns = 12` to target ≤17 item-list pages.
+
+**EMI++ stack groups** (Verdant port, pinned mods only): `kubejs/assets/cpelysian/stack_groups/` — Sophisticated Storage barrels/chests/limited barrels (wood variants collapse), backpacks, Silent Gear tools, Comforts, armor slots, filled buckets. No Ex Deorum/Mek/Create/AE2 groups (not pinned).
+
+Prism check: open EMI index → barrel tiers should be **one slot per tier**, not pages of wood variants.
 
 ## Explicitly not on Elysian
 

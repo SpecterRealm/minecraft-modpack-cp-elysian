@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:ss/limited_barrel/diamond/3",
+  "name": "stackgroup.cpelysian.ss.limited_barrel.diamond.3",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "sophisticatedstorage:limited_diamond_barrel_3"
+  ]
+}

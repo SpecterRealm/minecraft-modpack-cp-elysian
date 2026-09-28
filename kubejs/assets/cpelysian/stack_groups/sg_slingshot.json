@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/slingshot",
+  "name": "stackgroup.cpelysian.sg.slingshot",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:slingshot"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/shovel",
+  "name": "stackgroup.cpelysian.sg.shovel",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:shovel"
+  ]
+}

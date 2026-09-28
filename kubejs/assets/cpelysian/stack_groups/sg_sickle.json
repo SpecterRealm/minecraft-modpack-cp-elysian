@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/sickle",
+  "name": "stackgroup.cpelysian.sg.sickle",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:sickle"
+  ]
+}

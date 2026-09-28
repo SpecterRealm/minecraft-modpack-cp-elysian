@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/crossbow",
+  "name": "stackgroup.cpelysian.sg.crossbow",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:crossbow"
+  ]
+}

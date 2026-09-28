@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/crude_hammer",
+  "name": "stackgroup.cpelysian.sg.crude_hammer",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:crude_hammer"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/dagger",
+  "name": "stackgroup.cpelysian.sg.dagger",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:dagger"
+  ]
+}

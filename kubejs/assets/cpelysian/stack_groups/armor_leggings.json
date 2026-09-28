@@ -1,0 +1,7 @@
+{
+  "id": "cpelysian:armor_leggings",
+  "name": "stackgroup.cpelysian.armor_leggings",
+  "type": "emixx:tag",
+  "enabled": true,
+  "tag": "minecraft:leg_armor"
+}

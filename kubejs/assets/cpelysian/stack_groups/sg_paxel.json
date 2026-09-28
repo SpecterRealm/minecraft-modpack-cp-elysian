@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/paxel",
+  "name": "stackgroup.cpelysian.sg.paxel",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:paxel"
+  ]
+}

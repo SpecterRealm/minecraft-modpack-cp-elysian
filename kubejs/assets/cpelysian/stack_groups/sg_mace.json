@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/mace",
+  "name": "stackgroup.cpelysian.sg.mace",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:mace"
+  ]
+}

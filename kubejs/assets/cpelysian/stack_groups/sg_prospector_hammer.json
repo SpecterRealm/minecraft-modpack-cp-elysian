@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/prospector_hammer",
+  "name": "stackgroup.cpelysian.sg.prospector_hammer",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:prospector_hammer"
+  ]
+}

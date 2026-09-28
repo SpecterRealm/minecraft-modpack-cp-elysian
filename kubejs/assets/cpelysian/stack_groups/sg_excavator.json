@@ -1,0 +1,9 @@
+{
+  "id": "cpelysian:sg/excavator",
+  "name": "stackgroup.cpelysian.sg.excavator",
+  "type": "emixx:group",
+  "enabled": true,
+  "contents": [
+    "silentgear:excavator"
+  ]
+}
