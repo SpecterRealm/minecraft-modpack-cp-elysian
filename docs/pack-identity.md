@@ -25,3 +25,9 @@ make refresh
 ```
 
 Pin Soft / candidate jars only after 1.21.1 confirm + smoke-test. Prefer documenting TODOs over guessing pins.
+
+## Building assist
+
+- **Building Wands** — kept (wand / magic-bag skyblock build assist).
+- **Building Gadgets 2** — removed (tech gadget aesthetic; Liminal/Verdant still have it).
+- If BW gaps appear in playtest, candidate add: [Construction Wands Revived](https://modrinth.com/mod/construction-wands-revived) (NeoForge 1.21.1).
