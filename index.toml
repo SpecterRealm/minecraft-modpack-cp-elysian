@@ -185,11 +185,6 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
-file = "mods/cobblegen-galore.pw.toml"
-hash = "8d91e416f8944d06519a4d065d89f4a76cba7cf9ac7398f91f19e977a31b6ba0"
-metafile = true
-
-[[files]]
 file = "mods/codechicken-lib.pw.toml"
 hash = "1e1678b169096708fcb92496f251260471221554f70ca0dab1b99f2a6b72ea7b"
 metafile = true

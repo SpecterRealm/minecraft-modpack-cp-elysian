@@ -25,3 +25,7 @@ make refresh
 ```
 
 Pin Soft / candidate jars only after 1.21.1 confirm + smoke-test. Prefer documenting TODOs over guessing pins.
+
+## Explicitly not on Elysian
+
+- **Cobblegen Galore** — tech stone gens; keep on Verdant/Liminal. Magic obtain covers stone on E.
