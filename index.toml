@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "00b8cd6b20d796962d7d5c83449978c27f6a7342e3c45e6fe89de1c936535cf9"
+hash = "bffd60a3aff352027ecf209682d67c167184fcdf97326ed14491f4de3d0ccdfa"
 
 [[files]]
 file = "config/emi-client.toml"
@@ -474,6 +474,16 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "8cebdadc3a9e2c630d702e4b8e8147685a232eb9c24bf772fe4eb97caf4c932d"
+metafile = true
+
+[[files]]
+file = "mods/ars-controle.pw.toml"
+hash = "709623a91be4f2c83c68478805d094294ec92e13184fd67a4ae493b1b3253117"
+metafile = true
+
+[[files]]
 file = "mods/ars-elemental.pw.toml"
 hash = "9e91ef4f7baea6ee97c028f8c4223c53f6489483b4cecd96a5855424f6810fa9"
 metafile = true
@@ -481,6 +491,16 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "8e0a036130785555a20815bb51ea28912b01917aee9a3dce68deb7176a928ce6"
+metafile = true
+
+[[files]]
+file = "mods/ars-ocultas.pw.toml"
+hash = "a74d03702165b77fe6c3ea1e31569d5d5ebca3e74595128929ddebb626d7163f"
+metafile = true
+
+[[files]]
+file = "mods/ars-polymorphia.pw.toml"
+hash = "0b8a0117ded523876d15e861b537740bd385232185739dbb3f26cd41a3504a18"
 metafile = true
 
 [[files]]
@@ -496,6 +516,31 @@ metafile = true
 [[files]]
 file = "mods/baubley-heart-canisters.pw.toml"
 hash = "8a84576db49536bf3192bf863bc8a905e44325dcbe3fb4cf7e68ff9776a03e4d"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots-mystical-agriculture-compat.pw.toml"
+hash = "8b949fe176fbec8971c860ef9cf41c922e794c0b88b66dac37af2b20baa21302"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots-tiers.pw.toml"
+hash = "ae5c63514e3f18020caad1ad3e3be3bcd369a25aaf8149acf161947912134721"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "f200a085681a40047222b701f6a52fc098b51702a2debd909d1789fac78a9c38"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "66f64dd86c6a39c69d0feca05c79f58f30ebffcd6d4851628b671acb6eb8be18"
 metafile = true
 
 [[files]]
@@ -566,6 +611,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "f9e6dd1d85322833d9d3440446e569340ef52e23a5ce2149ddedec1c49b24efc"
 metafile = true
 
 [[files]]
@@ -714,6 +764,26 @@ hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-ars-nouveau.pw.toml"
+hash = "459198929fd6f66619a4128a51dab354ae03b7dd7d61cf1778a0c4aad38ba64d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-botany-pots.pw.toml"
+hash = "9829e76e6d6ab6873421747eb628bb799cadc1fe4b5c75fab7fffa08f4165f86"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "e9e69ecae2d5f8c843747cb52d709425d16c02036a088c38c9a8cc71d09e9579"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-irons-spells.pw.toml"
+hash = "d8c725e2900edd71d29338b5cac413a230edc76aaa53907f547bf78c002396d3"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-tweaks.pw.toml"
 hash = "f8207cca95fb83e76e544bbfe2af4ed6e00bf30a827022c5c2c9767434d0822a"
 metafile = true
@@ -759,6 +829,11 @@ hash = "fc5fe30a650c1aef92f24e997b5782a78247b3267ad89c9c0396cac31c9f9ae2"
 metafile = true
 
 [[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "a683bf43c525538d18a6be23cb8a263a09c4933ccadee721dc354d0de567c93b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
@@ -774,8 +849,23 @@ hash = "b92be01f3e843f0de2d3cdb89576ca85284e75e1818a94d8839649ceea735e0e"
 metafile = true
 
 [[files]]
+file = "mods/mystical-customization.pw.toml"
+hash = "356febd0e1611778016cbaada29fe291b8a867aae530e23e1d005a7cf35040a1"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-glyphs.pw.toml"
+hash = "b64cdb46d272fea0415478942b9efb97404070efe308866d6111114e413be806"
+metafile = true
+
+[[files]]
 file = "mods/notrample.pw.toml"
 hash = "7e2149adca5224eedf38aa7ba83359a01ad8eecabbe01e28edb2442fff9f50b8"
+metafile = true
+
+[[files]]
+file = "mods/occultism-kubejs.pw.toml"
+hash = "e84b54bb330381a35f847ad837f6e6adf6a60e19546b7f4654520a416fbf3c29"
 metafile = true
 
 [[files]]
@@ -791,6 +881,16 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "2e2af1cc71b69b26ae87bcb78d75fb0186d690ee1b85d8d4586eec112aa51b66"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
@@ -881,6 +981,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
+
+[[files]]
+file = "mods/theurgy-kubejs.pw.toml"
+hash = "f909ef0be750564936dc5e9f5990db8c69daee0f7b220c869592531ccdad8e44"
 metafile = true
 
 [[files]]
