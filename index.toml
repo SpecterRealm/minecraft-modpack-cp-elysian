@@ -114,7 +114,7 @@ hash = "1841bf049cf479e2db05355f814b2e5e4172a5cf7d27214e523aa79c2663ae9d"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "bfec65eebee1c216dd57cb3ed3d09b95781c389bf61b62f9bb3413cecb1b0e56"
+hash = "eb171500fc16557ca657e722b076590f06e5a62d9ff0a7f6df3331ea15eb7114"
 
 [[files]]
 file = "config/ftbquests/quests/quests.snbt"
@@ -1066,6 +1066,11 @@ metafile = true
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "1c25d7a25fc3e95236a557b8411089695e9f0a728c4a7386db911057eebfa3b6"
+metafile = true
+
+[[files]]
+file = "mods/translocators.pw.toml"
+hash = "0f56bdb3f5ec0b4a2738efbc7170d46cbcd92d1c7838597927f2174701fae63c"
 metafile = true
 
 [[files]]
