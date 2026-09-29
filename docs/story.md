@@ -6,9 +6,9 @@
 ## Quick Reference
 
 - **Module 2** of the Colonial Program. NeoForge 1.21.1, void / skyblock, magic obtains everything.
-- **Contingency trained:** an existing civilization — deploy the Veil.
+- **Contingency trained:** being met — project mystery and power (the Veil in use). The void is the rehearsal stage; no one is there yet.
 - **CASPAR tone:** formal, operational.
-- **Cohort:** *(open — see the series story; the canon carries `CP-Verdant-S1` through every module)*
+- **Cohort:** always `CP-Verdant-S1`. This is **Module 2 · CP Elysian**.
 
 ## Place in the Veil reveal
 

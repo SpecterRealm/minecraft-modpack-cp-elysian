@@ -10,6 +10,7 @@
 
 - Story doc added (`docs/story.md`); Elysian teaches how to use the Veil, not what it is.
 - Series content now links to Liminal (`docs/series/`, the source of truth) instead of being copied; removed pointers to design docs that live outside the repos.
+- Quest welcome text now says "Module 2 · CP Elysian — Cohort CP-Verdant-S1"; contingency reframed as being met (Liminal-first design).
 
 ## [0.1.0]
 
