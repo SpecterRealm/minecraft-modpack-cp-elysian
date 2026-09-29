@@ -469,6 +469,26 @@ file = "kubejs/startup_scripts/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "442efed64a6782621156f86baf8f0473a5365eef54c86e18423f187a6f1c8416"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "f345ee7e188dcf4e350268538eab7be655efa7bc025adaf89509712b0e80c9b6"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "109f0fdc9a8adf5f2ccda1a01b3f71700ab982cbd492e6eebfc25619e039fe13"
+metafile = true
+
+[[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "07d593432318b4cbdfa66715b28c28e5989003f75f40f0a1145fa5c2abf393e1"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -876,6 +896,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
