@@ -10,7 +10,6 @@
     "minecraft:salmon_bucket",
     "minecraft:tadpole_bucket",
     "minecraft:tropical_fish_bucket",
-    "minecraft:water_bucket",
-    "mob_grinding_utils:fluid_xp_bucket"
+    "minecraft:water_bucket"
   ]
 }
