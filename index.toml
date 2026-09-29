@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "bffd60a3aff352027ecf209682d67c167184fcdf97326ed14491f4de3d0ccdfa"
+hash = "8ac86f9156b8be6d30a1bd0808b9d25e6230518303bdc3f18486d4b80836a0fd"
 
 [[files]]
 file = "config/emi-client.toml"
@@ -150,7 +150,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/README.md"
-hash = "f7bbe1dac4124bab2917c2cb380fbc47fc3126baad8db9f9e4e6fd848a06ba8d"
+hash = "0e9bcb43f1cb91bed1122c82d2f61945e6bfc699aa0bf86b90cd321a1446ea04"
 
 [[files]]
 file = "kubejs/assets/cpelysian/lang/en_us.json"
@@ -458,7 +458,7 @@ hash = "e8ac33d91991c903d05245aabfcc947f51758889fd1e3ea7b81c4e5f3eba5560"
 
 [[files]]
 file = "kubejs/server_scripts/README.md"
-hash = "ff6c9857166f9991df36c41b72635c7b92c9550f883a5e1e49ab60b8e7c3b290"
+hash = "882030d656ba27638b4e2102adf958f86cad7c534bf1cabdba3ef499d4ec2f2b"
 
 [[files]]
 file = "kubejs/server_scripts/quest_book_login.js"

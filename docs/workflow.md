@@ -69,4 +69,4 @@ See [curseforge-export.md](curseforge-export.md). Shared mods should match Verda
 
 ## Design
 
-Project store: docs/elysian-core-mods.md · pack-progression-arcs.md §E · elysian-gem-bootstrap-options.md (KubeJS gem crafts TBD — not in this scaffold).
+Series design: Liminal [`docs/series/`](https://github.com/SpecterRealm/minecraft-modpack-cp-liminal/blob/main/docs/series/README.md). Pack scope: [pack-identity.md](pack-identity.md).
