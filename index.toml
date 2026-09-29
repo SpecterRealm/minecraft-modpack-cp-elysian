@@ -954,6 +954,11 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
+file = "mods/productive-metalworks.pw.toml"
+hash = "694d12649998576224bbaa1b13939e1fd6e099320d73a0c5304e442f3c037652"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
 metafile = true
@@ -971,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "d99554cf4022a273d2cc8108ed590c39965d244e3177316397f6cacc72cd2eb0"
+metafile = true
+
+[[files]]
+file = "mods/silent-gear-metalworks.pw.toml"
+hash = "07ef9dc9aaec17f47b839b3a1063744b89a7a859177e8fc208c4e2b3223c718a"
 metafile = true
 
 [[files]]
