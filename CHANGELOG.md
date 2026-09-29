@@ -4,6 +4,8 @@
 
 ### Mod stack
 
+- **Changed:** Essential Mod is now client-only (`side = "client"`), so servers do not install it while players' clients still get it from the pack (friends list, cosmetics, world hosting).
+- **Added:** Productive Metalworks (foundry multiblock: melt, alloy, cast) and Silent Gear Metalworks (its bridge; metal gear parts become cast-only). Both go in all four packs (Liminal #42). **Quests and Field Manual text for blueprint/gear crafting still need updating and the early game needs a playtest**; see the ticket for this pack.
 - **Removed:** Charging Gadgets, Energy Meter, Mob Grinding Utils — tech-aesthetic mods that do not fit a magic pack (nothing depended on them). **Translocators stays**: non-powered, no-pipe item transfer that suits a magic pack. Removed the MGU bucket from the filled-buckets tag.
 
 ### Docs
