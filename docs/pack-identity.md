@@ -12,13 +12,14 @@
 - **Loop:** magic obtains materials. Spells, essence crops, and spirit labor bootstrap and scale the base. **No sieve loop, no mining veins.**
 - **Soft leans (not jar locks yet):** Ars Nouveau-style spell literacy → Mystical Agriculture-style bulk materials → magical labor / auto-craft (Occultism, Theurgy); Iron's Spells 'n Spellbooks for combat; Apotheosis and Gateways to Eternity for gear and challenge. The `mods/` folder is authoritative; do not hard-code counts in prose.
 - **Botania is not a pillar.**
-- **Fiction:** carries the Veil doctrine — see [Liminal story](https://github.com/SpecterRealm/minecraft-modpack-cp-liminal/blob/main/docs/series/story.md).
+- **Fiction:** teaches how to *use* the Veil, not what it is — see [`story.md`](story.md) and the [Liminal story](https://github.com/SpecterRealm/minecraft-modpack-cp-liminal/blob/main/docs/series/story.md).
 - **Quest chapters:** Welcome, Void Camp, First Source, Grow the Garden, Spirit Labor, Dense Magic, Iron's Combat, Side Quests.
 
 ## What Elysian does *not* own
 
 - Sieving, Create, Mekanism, AE2 — Verdant's pillars. Not taught here.
 - **Cobblegen Galore** — tech stone generators; Magic obtain covers stone here.
+- **Tech-aesthetic mods** — removed: **Charging Gadgets**, **Energy Meter**, **Translocators**, **Mob Grinding Utils**, plus **Building Gadgets 2**. None of them fit a magic-obtains-everything pack and nothing in the pack depended on them.
 - **Building Gadgets 2** — removed (tech gadget aesthetic). **Building Wands** is kept (wand / magic-bag build assist). If gaps appear in playtest, candidate add: [Construction Wands Revived](https://modrinth.com/mod/construction-wands-revived) (NeoForge 1.21.1).
 - Cross-pack bridges — Liminal.
 

@@ -2,8 +2,13 @@
 
 ## [Unreleased]
 
+### Mod stack
+
+- **Removed:** Charging Gadgets, Energy Meter, Translocators, Mob Grinding Utils — tech-aesthetic mods that do not fit a magic pack (nothing depended on them). Removed the stale Translocators mention from quest text and the MGU bucket from the filled-buckets tag.
+
 ### Docs
 
+- Story doc added (`docs/story.md`); Elysian teaches how to use the Veil, not what it is.
 - Series content now links to Liminal (`docs/series/`, the source of truth) instead of being copied; removed pointers to design docs that live outside the repos.
 
 ## [0.1.0]

@@ -81,7 +81,7 @@
 	quest.E100000000000505.quest_desc: "Complete one spirit labor ritual (checkmark until smoke-test pins a detectable proxy). Ender Chest reward seeds dimensional stash.",
 	quest.E100000000000505.quest_subtitle: "Labor without PE",
 	quest.E100000000000505.title: "First Familiar Help",
-	quest.E100000000000507.quest_desc: "MA grows; spirits build. Late chapters (stubs): dense gardens, Iron's combat after Ars literacy, optional Translocators.",
+	quest.E100000000000507.quest_desc: "MA grows; spirits build. Late chapters (stubs): dense gardens, Iron's combat after Ars literacy.",
 	quest.E100000000000507.quest_subtitle: "Mid spine complete",
 	quest.E100000000000507.title: "Labor Online",
 	quest.E100000000000601.quest_desc: "Stub: dense MA + spirit labor at scale. Mystical Automation niche optional. Full quests after smoke-tests.",
@@ -91,6 +91,6 @@
 	quest.E100000000000701.quest_subtitle: "After Ars literacy",
 	quest.E100000000000701.title: "Wizard Robes (stub)",
 	quest.E100000000000901.quest_desc: "Stub: side niches only — never co-primary with Ars→MA→Occultism.",
-	quest.E100000000000901.quest_subtitle: "Translocators · Theurgy · Ars Zero",
+	quest.E100000000000901.quest_subtitle: "Theurgy · Ars Zero",
 	quest.E100000000000901.title: "Optional Paths (stub)"
 }
