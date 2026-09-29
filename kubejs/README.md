@@ -5,7 +5,7 @@ Skeleton only. **Do not** implement Recovery Bay, gem bootstrap crafts, or full 
 | Area | Status | Design pointer |
 |------|--------|----------------|
 | Shared stack scripts | stub | series shared-mod-stack |
-| Pack pillars | TODO | Project store: docs/elysian-core-mods.md · pack-progression-arcs.md §E · elysian-gem-bootstrap-options.md (KubeJS gem crafts TBD — not in this scaffold). |
+| Pack pillars | TODO | Series design: [Liminal `docs/series/pack-architecture.md`](https://github.com/SpecterRealm/minecraft-modpack-cp-liminal/blob/main/docs/series/pack-architecture.md) (Elysian section); pack scope in `docs/pack-identity.md`.|
 | Quests | separate | `config/ftbquests/` (quest worker) |
 
 Add scripts under `server_scripts/`, `client_scripts/`, `startup_scripts/`, then `make refresh`.
