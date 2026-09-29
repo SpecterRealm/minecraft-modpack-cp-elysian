@@ -52,6 +52,16 @@ Or on macOS with Prism at the default path: `make dev` (configure + serve-bg + l
 
 Foreground serve (blocks the terminal): `make serve`.
 
+## Void test world
+
+Elysian is a void / skyblock pack, and it has no void world configured yet (see Influx [#28](https://github.com/SpecterRealm/minecraft-modpack-cp-influx/issues/28)). To test in a void, create one by hand:
+
+1. In Prism, launch `CP-Elysian-Dev`.
+2. **Create New World → More World Options → World Type: Superflat → Customize → Presets → "The Void".**
+3. Use creative for a small starting platform. Skyblock Builder is in the pack but not yet configured or documented for a start structure.
+
+*Untested with this pack's mod list.*
+
 ## After edits
 
 - New tracked files → `make refresh` (or just `make serve-bg`)
