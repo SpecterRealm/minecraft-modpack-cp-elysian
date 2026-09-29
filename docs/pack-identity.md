@@ -19,7 +19,7 @@
 
 - Sieving, Create, Mekanism, AE2 — Verdant's pillars. Not taught here.
 - **Cobblegen Galore** — tech stone generators; Magic obtain covers stone here.
-- **Tech-aesthetic mods** — removed: **Charging Gadgets**, **Energy Meter**, **Translocators**, **Mob Grinding Utils**, plus **Building Gadgets 2**. None of them fit a magic-obtains-everything pack and nothing in the pack depended on them.
+- **Tech-aesthetic mods** — removed: **Charging Gadgets**, **Energy Meter**, **Translocators** (out of Elysian for now — Ars Nouveau's Starbuncles and Ender Storage cover magical item transfer; it lives in Liminal as non-powered transfer), **Mob Grinding Utils**, plus **Building Gadgets 2**. None of them fit a magic-obtains-everything pack and nothing in the pack depended on them.
 - **Building Gadgets 2** — removed (tech gadget aesthetic). **Building Wands** is kept (wand / magic-bag build assist). If gaps appear in playtest, candidate add: [Construction Wands Revived](https://modrinth.com/mod/construction-wands-revived) (NeoForge 1.21.1).
 - Cross-pack bridges — Liminal.
 

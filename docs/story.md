@@ -5,7 +5,7 @@
 
 ## Quick Reference
 
-- **Module 2** of the Colonial Program. NeoForge 1.21.1, void / skyblock, magic obtains everything.
+- **Module 2** of the Cohort Protocol. **Virtual** — you are inside the training simulation. NeoForge 1.21.1, void / skyblock, magic obtains everything.
 - **Contingency trained:** being met — project mystery and power (the Veil in use). The void is the rehearsal stage; no one is there yet.
 - **CASPAR tone:** formal, operational.
 - **Cohort:** always `CP-Verdant-S1`. This is **Module 2 · CP Elysian**.

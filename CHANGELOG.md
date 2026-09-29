@@ -4,7 +4,7 @@
 
 ### Mod stack
 
-- **Removed:** Charging Gadgets, Energy Meter, Translocators, Mob Grinding Utils — tech-aesthetic mods that do not fit a magic pack (nothing depended on them). Removed the stale Translocators mention from quest text and the MGU bucket from the filled-buckets tag.
+- **Removed:** Charging Gadgets, Energy Meter, Translocators, Mob Grinding Utils — tech-aesthetic mods that do not fit a magic pack (nothing depended on them). Translocators is kept in Liminal (non-powered item transfer). Removed the stale Translocators mention from quest text and the MGU bucket from the filled-buckets tag.
 
 ### Docs
 
