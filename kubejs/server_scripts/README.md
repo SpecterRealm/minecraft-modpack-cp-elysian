@@ -3,6 +3,7 @@
 | Script | Role |
 |--------|------|
 | `quest_book_login.js` | Give `ftbquests:book` if missing on join + short login tip |
+| `starter_animals.js` | Spawn eggs for chicken, cow, sheep, pig and rabbit from Inferium Essence plus the animal's food (void start has no animals; Farming for Blockheads was removed) |
 
 ## Recipe viewer (EMI++)
 

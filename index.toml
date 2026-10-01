@@ -458,11 +458,15 @@ hash = "3cb4aa7a1a4592ec8e85adc4b7faf930a51fa2752a2a79b2dd88f0d65c5e772a"
 
 [[files]]
 file = "kubejs/server_scripts/README.md"
-hash = "882030d656ba27638b4e2102adf958f86cad7c534bf1cabdba3ef499d4ec2f2b"
+hash = "b7872a6212c102bbee60bae7792e3d4623d5de82bee7368f0ab77a2772f26852"
 
 [[files]]
 file = "kubejs/server_scripts/quest_book_login.js"
 hash = "906457c4a60021e96e2bdc6f8942ec0397160b677bb23002e7798844893db4bb"
+
+[[files]]
+file = "kubejs/server_scripts/starter_animals.js"
+hash = "5c88cf4e21cea04b6bc7019294d12c0185f4ad0e0e68bf0481fc4eb79f1703f6"
 
 [[files]]
 file = "kubejs/startup_scripts/.gitkeep"
