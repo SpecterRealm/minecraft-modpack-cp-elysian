@@ -14,10 +14,34 @@ ServerEvents.recipes((event) => {
   const essence = 'mysticalagriculture:inferium_essence';
 
   event.shapeless('minecraft:chicken_spawn_egg', [essence, essence, 'minecraft:wheat_seeds']);
-  event.shapeless('minecraft:cow_spawn_egg', [essence, essence, essence, essence, 'minecraft:wheat']);
-  event.shapeless('minecraft:sheep_spawn_egg', [essence, essence, essence, essence, 'minecraft:wheat']);
-  event.shapeless('minecraft:pig_spawn_egg', [essence, essence, essence, essence, 'minecraft:carrot']);
-  event.shapeless('minecraft:rabbit_spawn_egg', [essence, essence, essence, essence, 'minecraft:carrot']);
+  event.shapeless('minecraft:cow_spawn_egg', [
+    essence,
+    essence,
+    essence,
+    essence,
+    'minecraft:wheat',
+  ]);
+  event.shapeless('minecraft:sheep_spawn_egg', [
+    essence,
+    essence,
+    essence,
+    essence,
+    'minecraft:wheat',
+  ]);
+  event.shapeless('minecraft:pig_spawn_egg', [
+    essence,
+    essence,
+    essence,
+    essence,
+    'minecraft:carrot',
+  ]);
+  event.shapeless('minecraft:rabbit_spawn_egg', [
+    essence,
+    essence,
+    essence,
+    essence,
+    'minecraft:carrot',
+  ]);
 
   console.log('[CPE] Starter animal recipes registered.');
 });

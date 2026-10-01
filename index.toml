@@ -466,7 +466,7 @@ hash = "906457c4a60021e96e2bdc6f8942ec0397160b677bb23002e7798844893db4bb"
 
 [[files]]
 file = "kubejs/server_scripts/starter_animals.js"
-hash = "5c88cf4e21cea04b6bc7019294d12c0185f4ad0e0e68bf0481fc4eb79f1703f6"
+hash = "761b3559824475bb3c5577c80e582fe855ddaecaab16d7da05a00d4a7adc5d55"
 
 [[files]]
 file = "kubejs/startup_scripts/.gitkeep"
