@@ -4,6 +4,7 @@
 
 ### Mod stack
 
+- **Removed:** Wooden Shears, Mystical Automation, Apothic Spawners, Ars Elemancy, Ars Controle, Not Enough Glyphs. Mystical Automation needs FE and Elysian has no power system (automation comes from Botany Pots, Occultism spirits and Theurgy); the rest each added a handful of items or overlapped spell and staff mods already in the pack. Wizards (Spell Engine) stays planned for this pack, with Ars for utility and Source, Iron's for combat spells, and Spell Engine for the class kit. Decisions from Liminal `docs/series/items/elysian-review.md`; nothing else depended on them (no quest, KubeJS or config references).
 - **Changed:** Essential Mod is now client-only (`side = "client"`), so servers do not install it while players' clients still get it from the pack (friends list, cosmetics, world hosting).
 - **Added:** Productive Metalworks (foundry multiblock: melt, alloy, cast) and Silent Gear Metalworks (its bridge; metal gear parts become cast-only). Both go in all four packs (Liminal #42). **Quests and Field Manual text for blueprint/gear crafting still need updating and the early game needs a playtest**; see the ticket for this pack.
 - **Removed:** Charging Gadgets, Energy Meter, Mob Grinding Utils — tech-aesthetic mods that do not fit a magic pack (nothing depended on them). **Translocators stays**: non-powered, no-pipe item transfer that suits a magic pack. Removed the MGU bucket from the filled-buckets tag.
