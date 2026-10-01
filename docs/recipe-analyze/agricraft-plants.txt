@@ -1,0 +1,7 @@
+# AgriCraft plant datapack defs (not craftable recipe results)
+# scanned: 2026-10-01T16:31:37.204672+00:00
+# mods_dir: ~/Library/Application Support/PrismLauncher/instances/CP-Elysian-Dev/minecraft/mods
+# plant_count: 0
+# by_namespace: {}
+# format: plant_id | products | seeds | jar
+

@@ -1,0 +1,9 @@
+# mod: productivebees
+# items: 4
+# jar_recipes_on_results: 30
+# installed: NO (compat recipe for a mod that is not installed)
+
+productivebees:honey
+productivebees:spawn_egg_configurable_bee
+productivebees:wax
+productivebees:wax_block
