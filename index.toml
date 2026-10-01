@@ -458,11 +458,15 @@ hash = "3cb4aa7a1a4592ec8e85adc4b7faf930a51fa2752a2a79b2dd88f0d65c5e772a"
 
 [[files]]
 file = "kubejs/server_scripts/README.md"
-hash = "882030d656ba27638b4e2102adf958f86cad7c534bf1cabdba3ef499d4ec2f2b"
+hash = "b7872a6212c102bbee60bae7792e3d4623d5de82bee7368f0ab77a2772f26852"
 
 [[files]]
 file = "kubejs/server_scripts/quest_book_login.js"
 hash = "906457c4a60021e96e2bdc6f8942ec0397160b677bb23002e7798844893db4bb"
+
+[[files]]
+file = "kubejs/server_scripts/starter_animals.js"
+hash = "761b3559824475bb3c5577c80e582fe855ddaecaab16d7da05a00d4a7adc5d55"
 
 [[files]]
 file = "kubejs/startup_scripts/.gitkeep"
@@ -666,11 +670,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
-metafile = true
-
-[[files]]
-file = "mods/farming-for-blockheads.pw.toml"
-hash = "72297d1790d36f6d871a28c66670fa127ea8760b6b030e70bb8b9e34ba1dbe0c"
 metafile = true
 
 [[files]]
