@@ -669,11 +669,6 @@ hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
 
 [[files]]
-file = "mods/farming-for-blockheads.pw.toml"
-hash = "72297d1790d36f6d871a28c66670fa127ea8760b6b030e70bb8b9e34ba1dbe0c"
-metafile = true
-
-[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "c6fc1c6d8c12d489ae8e050368b0dd2664ca1bd9cc341ab617f821430c5125b3"
 metafile = true
