@@ -489,11 +489,6 @@ hash = "109f0fdc9a8adf5f2ccda1a01b3f71700ab982cbd492e6eebfc25619e039fe13"
 metafile = true
 
 [[files]]
-file = "mods/apothic-spawners.pw.toml"
-hash = "07d593432318b4cbdfa66715b28c28e5989003f75f40f0a1145fa5c2abf393e1"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -506,16 +501,6 @@ metafile = true
 [[files]]
 file = "mods/ars-caelum.pw.toml"
 hash = "8a31276591786ef98f0052095a342649b3d55842d1544d9b8e9e82c21ad12c26"
-metafile = true
-
-[[files]]
-file = "mods/ars-controle.pw.toml"
-hash = "709623a91be4f2c83c68478805d094294ec92e13184fd67a4ae493b1b3253117"
-metafile = true
-
-[[files]]
-file = "mods/ars-elemancy.pw.toml"
-hash = "12caf58c8583c17a41aebe2a836d0b48b4996334137e97b76c62e6b5b62791b5"
 metafile = true
 
 [[files]]
@@ -899,18 +884,8 @@ hash = "0cba939c32c0b0a5848d329f07a5f523b3833e8d7e876bafcb1e8892fccf56e3"
 metafile = true
 
 [[files]]
-file = "mods/mystical-automation.pw.toml"
-hash = "b92be01f3e843f0de2d3cdb89576ca85284e75e1818a94d8839649ceea735e0e"
-metafile = true
-
-[[files]]
 file = "mods/mystical-customization.pw.toml"
 hash = "356febd0e1611778016cbaada29fe291b8a867aae530e23e1d005a7cf35040a1"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-glyphs.pw.toml"
-hash = "b64cdb46d272fea0415478942b9efb97404070efe308866d6111114e413be806"
 metafile = true
 
 [[files]]
@@ -1086,11 +1061,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
-metafile = true
-
-[[files]]
-file = "mods/wooden-shears.pw.toml"
-hash = "d516889b3ce64510108e5961a42c96f832ce1ed35544d29b35d421a8881b6dbf"
 metafile = true
 
 [[files]]
